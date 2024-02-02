@@ -8,6 +8,11 @@ body {
     color: #f5f6f7;
     font-family: Tahoma;
     font-size: 16px;
+    background: url(https://images.unsplash.com/photo-1572810288566-bf12b806b5b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8&w=1000&q=80);
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   h1, p {
